@@ -41,11 +41,7 @@ Credit card fraud causes billions in global losses annually. This project addres
 This project blends practical machine learning with real-world applicability, making it a solid base for deploying fraud detection models in financial systems.
 
 
-
-
-
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **🏦 Loan Approval Prediction System | Machine Learning + Web App (ML P2 )**
@@ -92,4 +88,4 @@ Developed a predictive ML model and deployed it as a simple web app to automate 
 * Created a working prototype ready for further scaling or integration into financial systems
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------
